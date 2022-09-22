@@ -16,7 +16,7 @@ ls -R
 
 5.- Clear all the clutter from the command line
 
-Clear
+clear
 
 6.- Go to the last level below the small-name folder and show on the console the content of the trophy.txt file.
 Parado en Directorio: excercise-terminal-challenge/thecmdchallenge
